@@ -1,0 +1,41 @@
+.my_div{
+  background-color: bisque;
+  height: 250px;
+  width: 400px;
+  margin-left:35%;
+  margin-top: 30px;
+}
+.head_text{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
+.form_head{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+.formlabel{
+ font-weight: bold;
+ font-size: 20px;
+ margin-left: 30px;
+ margin-top: 30px;
+ 
+}
+.forminput,.forminput1{
+ height: 25px;
+ width: 200px;
+ margin-left: 50px;
+ margin-top: 10px;
+}
+.forminput1{
+  margin-left: 20px;
+}
+.mybtn{
+  margin-top: 30px;
+  margin-left: 150px;
+  height: 30px;
+  width: 80px;
+}

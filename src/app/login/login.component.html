@@ -1,0 +1,13 @@
+<div class="head_text">Please enter your Information</div>
+<div class="my_div">
+  <form (ngSubmit)="onSubmit()">
+  <div class="form_head">Login Form</div>
+  <label for="email" class="formlabel">Email</label>
+  <input type="email" placeholder="Enter Email" class="forminput" [(ngModel)]="email" name="email">
+  <br>
+  <label for="password" class="formlabel">Password</label>
+  <input type="password" placeholder="Enter Password" class="forminput1" [(ngModel)]="password" name="password">
+  <br>
+  <input type="submit" class="mybtn">
+  </form>
+</div>
